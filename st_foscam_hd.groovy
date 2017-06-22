@@ -37,7 +37,7 @@ preferences {
 }
 
 metadata {
-  definition (name: "Foscam HD") {
+  definition (name: "Foscam HD",author: "skp19") {
     capability "Polling"
     capability "Image Capture"
 
